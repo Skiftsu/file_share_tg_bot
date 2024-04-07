@@ -1,0 +1,5 @@
+rootProject.name = 'FileShare'
+include 'node'
+include 'dispatcher'
+include 'common-data'
+include 'mail-service'
